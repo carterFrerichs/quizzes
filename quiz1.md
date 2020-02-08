@@ -29,3 +29,25 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers
+
+1. 'Git' is a version-control software
+
+2. 'Bash' is a program that gives us an interface for our machines
+
+3. pwd
+
+4. 
+
+5. A syntax error could mean that you missused a keyword 
+
+6. 'let' or 'const'
+
+7. 'Node Project Management', 
+
+8. JavaScript Object Notation
+
+9. the program npm is used to install something.
+
+10. string, boolean, number
