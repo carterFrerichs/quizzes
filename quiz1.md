@@ -32,22 +32,22 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 ## Answers
 
-1. 'Git' is a version-control software
+1. 'Git' is a version-control system
 
 2. 'Bash' is a program that gives us an interface for our machines
 
-3. pwd
+3. cd
 
-4. 
+4. Automates the process of finding and fixing bugs
 
-5. A syntax error could mean that you missused a keyword 
+5. This is something like the grammar of the code
 
 6. 'let' or 'const'
 
-7. 'Node Project Management', 
+7. 'Node.js Package Management', in conjunction with npmjs.com, we can leverage other code modules to assist with working on our projects
 
 8. JavaScript Object Notation
 
-9. the program npm is used to install something.
+9. By checking package.json 'dependencies' or 'devDependencies', it reaches out to npmjs.com and installs modules into 'node_modules'
 
 10. string, boolean, number
